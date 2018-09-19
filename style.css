@@ -1,0 +1,32 @@
+* {margin: 0;padding: 0}
+body{font-family: arial;}
+.main {width: 1100px;margin: auto;background-color:azure}
+.header {}
+.header img {width: 1100px;height: auto}
+.mainmenu {background: red; overflow: hidden; margin-bottom: 20px}
+.mainmenu img {width:40px;height: auto; float: right;padding-right: 10px}
+.mainmenu ul {list-style: none;}
+.mainmenu ul li {float: left;}
+.mainmenu ul li a{color:white;padding: 10px; display: block;text-decoration: none;}
+.mainmenu ul li a:hover{background: black; }
+
+.maincontnt {overflow: hidden;margin-bottom: 20px}
+.maincontnt h1{margin-bottom: 5px}
+.contnt p{margin-bottom: 5px; text-align: justify;}
+.student h1{margin-bottom: 20px}
+.hasib{overflow: hidden;margin-bottom: 10px;}
+.hasib img {width: 200px;height: auto;float: left; background:black;padding: 5px;margin-right: 10px}
+.jahingir{overflow: hidden;}
+.jahingir img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
+.arefin {overflow: hidden;margin-bottom: 10px}
+.arefin img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
+.jui {}
+
+.contnt {width: 630px; float: left;}
+.sidebar {float: right;width: 250px;margin-left: 20px}
+.sidebar ul {list-style: none;}
+.sidebar ul li {margin-bottom: 10px;border-bottom: 1px solid gray;}
+.sidebar ul li a{color: gray;text-decoration: none; display: block;}
+.sidebar ul li a:hover{color:blue}
+.footer {background-color: red;color:white;text-align: center;padding: 5px}
+.about img {height: auto; width: auto; overflow: hidden;}
