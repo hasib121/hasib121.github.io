@@ -20,7 +20,8 @@ body{font-family: arial;}
 .jahingir img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
 .arefin {overflow: hidden;margin-bottom: 10px}
 .arefin img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
-.jui {}
+.mahabub {overflow: hidden;}
+.mahabub img {}
 
 .contnt {width: 630px; float: left;}
 .sidebar {float: right;width: 250px;margin-left: 20px}
