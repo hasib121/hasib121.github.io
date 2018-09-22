@@ -16,7 +16,7 @@ body{font-family: arial;}
 .student h1{margin-bottom: 20px}
 .hasib{overflow: hidden;margin-bottom: 10px;}
 .hasib img {width: 200px;height: auto;float: left; background:black;padding: 5px;margin-right: 10px}
-.jahingir{overflow: hidden;}
+.jahingir{overflow: hidden;margin-bottom: 10px}
 .jahingir img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
 .arefin {overflow: hidden;margin-bottom: 10px}
 .arefin img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
