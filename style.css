@@ -22,6 +22,8 @@ body{font-family: arial;}
 .arefin img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
 .mahabub {overflow: hidden;margin-bottom: 10px}
 .mahabub img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
+.shakil {overflow: hidden;}
+.shakil img{width: 200px;height: auto;float: left;background: black;padding: 5px;margin-right: 10px}
 
 .contnt {width: 630px; float: left;}
 .sidebar {float: right;width: 250px;margin-left: 20px}
